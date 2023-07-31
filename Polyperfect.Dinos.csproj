@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2916BA0B-BFF9-23A1-C6A4-E5FB2F06E40F}</ProjectGuid>
+    <ProjectGuid>{B6D874C3-C8BF-44DB-2C1E-9AF6056AE3EE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Polyperfect.Dinos</AssemblyName>
@@ -735,7 +735,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Polyperfect.Common.csproj">
-      <Project>{617162CE-606E-EAA9-B0E0-8AE6F96FEDC6}</Project>
+      <Project>{38860CA1-6C38-5ED8-0A1E-853F3ADA9280}</Project>
       <Name>Polyperfect.Common</Name>
     </ProjectReference>
   </ItemGroup>
