@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyperfect.Dinos", "Polyperfect.Dinos.csproj", "{B6D874C3-C8BF-44DB-2C1E-9AF6056AE3EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyperfect.Common", "Polyperfect.Common.csproj", "{38860CA1-6C38-5ED8-0A1E-853F3ADA9280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A8EB366D-7B30-7E68-C647-2AB0938FCE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6D874C3-C8BF-44DB-2C1E-9AF6056AE3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D874C3-C8BF-44DB-2C1E-9AF6056AE3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D874C3-C8BF-44DB-2C1E-9AF6056AE3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D874C3-C8BF-44DB-2C1E-9AF6056AE3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38860CA1-6C38-5ED8-0A1E-853F3ADA9280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38860CA1-6C38-5ED8-0A1E-853F3ADA9280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38860CA1-6C38-5ED8-0A1E-853F3ADA9280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38860CA1-6C38-5ED8-0A1E-853F3ADA9280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8EB366D-7B30-7E68-C647-2AB0938FCE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EB366D-7B30-7E68-C647-2AB0938FCE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EB366D-7B30-7E68-C647-2AB0938FCE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EB366D-7B30-7E68-C647-2AB0938FCE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
