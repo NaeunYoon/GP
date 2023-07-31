@@ -16,6 +16,11 @@ public class PlayerController : MonoBehaviour
     public CinemachineVirtualCamera _playerCam;
     public VirtualJoystick _joystick;
 
+    private void Start()
+    {
+        _player_Animator = this.GetComponent<Animator>();
+    }
+
     public void Move(Vector2 inputDirection)
     {
         Vector2 moveInput = inputDirection;

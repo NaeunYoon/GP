@@ -51,6 +51,7 @@ public class VirtualJoystick : MonoBehaviour,IBeginDragHandler, IDragHandler,IEn
         lever.anchoredPosition = Vector2.zero;
         isInput = false;
         _playerController.Move(Vector2.zero);
+        _playerController._player_Animator.SetInteger("ACTION", 0);
     }
 
     private void ControllJoystickLever(PointerEventData eventData)
